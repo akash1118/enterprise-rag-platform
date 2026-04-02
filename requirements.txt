@@ -4,3 +4,5 @@ chromadb
 python-dotenv
 sentence-transformers
 google-genai
+python-multipart
+pypdf

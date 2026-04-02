@@ -95,3 +95,6 @@ This platform transforms how organizations interact with their data:
 This project is not just a chatbot — it is a **scalable AI knowledge platform** that bridges the gap between **LLMs and real-world enterprise data**, enabling reliable, efficient, and production-ready AI applications.
 
 ---
+
+"Add LLM-as-judge + automated evaluation pipeline"
+“Add reranking + hybrid retrieval with code”
